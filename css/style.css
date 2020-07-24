@@ -59,19 +59,25 @@ p{
 }
 .XX{
 	background-image: url(../Images/picture6.jpg);
+        background-size: cover; 
 }
 .YY{
 	background-image: url(../Images/picture5.jpg);
+     background-size: cover;   
 }
 .ZZ{
 	background-image: url(../Images/picture2.jpg);
+background-size: cover;
 }
 .AA{
 	background-image: url(../Images/picture3.jpg);
+background-size: cover;
 }
 .BB{
 	background-image: url(../Images/picture4.jpg);
+background-size: cover;
 }
 .CC{
 	background-image: url(../Images/picture1.jpg);
+background-size: cover;
 }
